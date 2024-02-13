@@ -1,0 +1,4 @@
+Abstract
+<hr>
+
+Ease of access to internet gave the people power to express their emotions on any social media platform. Due to large availability of posts, it is beneficial to classify and detect the emotion behind any comment or post. However, the majority of the services only offer basic sentiment analysis of the data. Therefore, we aim to automate the social media posts classification based on emotions using machine learning and natural language processing. The dataset used for the project is prepared from Reddit posts. It consists of textual English messages along with the labels. The project uses five machine learning models to classify into different Emotion-Categories: happiness, sadness, anxiety, anger and love. Finally, we successfully achieved a good accuracy on testing with different models.
